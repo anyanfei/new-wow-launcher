@@ -1,0 +1,7 @@
+*.sum
+*.rar
+*.exe
+*.exe~
+*.log
+*.tmp
+.idea
