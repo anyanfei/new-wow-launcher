@@ -6,6 +6,8 @@
 
 请clone项目：
 
+[gitee](https://gitee.com/87066062/new-wow-launcher1)
+
 [github](https://github.com/anyanfei/new-wow-launcher)
 
 
